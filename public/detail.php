@@ -137,4 +137,4 @@ function trackDownload(url) {
 }
 </script>
 
-<?php include __DIR__ . ''; ?>
+<?php include __DIR__ . '/../includes/footer.php'; ?>

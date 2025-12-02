@@ -12,7 +12,7 @@ if (!empty($query)) {
 }
 
 $pageTitle = "Search Photos";
-include __DIR__ . ' ';
+include __DIR__ . '/../includes/header.php';
 ?>
 
 <div class="container">
@@ -91,4 +91,4 @@ include __DIR__ . ' ';
     <?php endif; ?>
 </div>
 
-<?php include __DIR__ . ' '; ?>
+<?php include __DIR__ . '/../includes/footer.php'; ?>
