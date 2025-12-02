@@ -1,7 +1,7 @@
 <?php
 // api/SearchAPI.php
 
-require_once __DIR__ . ' ';
+require_once __DIR__ . '/../UnsplashAPI.php';
 
 class SearchAPI extends UnsplashAPI {
     
